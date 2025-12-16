@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>---<br><br>## 👋 About Me<br><br>Welcome to my GitHub profile!<br>Here I share my past projects in hopes that others find them helpful and interesting.<br><br>* **Name:** Pranjal Bharti<br>* **College:** IIIT Delhi<br>* **Year:** 4th Year, Computer Science Engineering<br>* **Areas of Interest:** Systems, Programming, Algorithms<br>* **Focus:** Building and sharing academic and personal CS projects<br><br>---
+<br>---<br><br>👋 About Me<br><br>Welcome to my GitHub profile!<br>Here I share my past projects in hopes that others find them helpful and interesting.<br><br>* **Name:** Pranjal Bharti<br>* **College:** IIIT Delhi<br>* **Year:** 4th Year, Computer Science Engineering<br>* **Areas of Interest:** Systems, Programming, Algorithms<br>* **Focus:** Building and sharing academic and personal CS projects<br><br>---
 
 
 ## 🌐 Socials:
